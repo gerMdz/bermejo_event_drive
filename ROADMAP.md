@@ -1,1 +1,1 @@
-[6% - Ahora con Docker](https://garyclarketech.teachable.com/courses/symfony7-microservice/lectures/55404888)
+[12% - Visión General](https://garyclarketech.teachable.com/courses/symfony7-microservice/lectures/55451220)
