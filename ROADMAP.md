@@ -1,1 +1,1 @@
-[12% - Visión General](https://garyclarketech.teachable.com/courses/symfony7-microservice/lectures/55451220)
+[16% - Interfaz modelo](https://garyclarketech.teachable.com/courses/symfony7-microservice/lectures/55466109)
