@@ -12,8 +12,14 @@
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
+.phpunit.cache
 ###< phpunit/phpunit ###
 ###>idea<####
 .idea
 /.idea
 ###<idea>####
+/.phpcs-cache
+
+/.phplint.cache
+build
+
